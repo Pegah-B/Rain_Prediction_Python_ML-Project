@@ -6,13 +6,11 @@ This project aims to predict rainfall using machine learning techniques. The dat
 ## Files
 1- Rainfall_prediction.ipynb
 
-&nbsp;&nbsp; Covers EDA, preprocessing, and outlier handling. Outputs "Preprocessed_Data.csv."
-
-&nbsp;&nbsp; Also includes classification with Logistic Regression (No Feature Selection).
+&nbsp;&nbsp; Covers exploratory data analysis (EDA) with data visualizations, data wrangling, preprocessing (including imputing missing data and encoding), outlier handling, scaling, and data splitting. Outputs the preprocessed data to "Preprocessed_Data.csv." Also, includes classification with logistic regression without feature selection.
 
 2- Feature_selection.ipynb
 
-&nbsp;&nbsp; Uses "Preprocessed_Data.csv" for feature selection with logistic regression and random forest classifiers. Compares results.
+&nbsp;&nbsp; Uses "Preprocessed_Data.csv" for feature selection with logistic regression and random forest classifiers. Compares the results, including various metrics for evaluation.
 
 3- weatherAUS.csv
 
