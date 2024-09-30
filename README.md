@@ -1,4 +1,4 @@
-# Rain-Prediction-Project
+# Rainfall Prediction Model: An EDA and Machine Learning Approach
 
 ## Overview
 This project aims to predict rainfall using machine learning techniques. The dataset "Rain in Australia" used in this analysis contains approximately 10 years of daily weather observations from various locations across Australia, obtained from https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package
